@@ -1,0 +1,18 @@
+# output and temp files
+clips/
+*.mp4
+*.mkv
+*.webm
+*.part
+
+# python
+__pycache__/
+*.pyc
+.venv/
+venv/
+
+# editors / OS
+.vscode/
+.idea/
+.DS_Store
+Thumbs.db
